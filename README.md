@@ -14,6 +14,8 @@ Then, run the following command:
 ```go
 go run main.go
 ```
+This command will generate the file `test.json` that contain all the data needed.
+
 Next, open your browser and navigate to the following URL:
 ```arduino
 http://localhost:8080/
